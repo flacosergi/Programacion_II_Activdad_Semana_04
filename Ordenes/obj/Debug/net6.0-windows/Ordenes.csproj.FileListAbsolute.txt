@@ -1,0 +1,75 @@
+D:\Google Drive\Proyectos\Ordenes\bin\Debug\net6.0-windows\Ordenes.exe
+D:\Google Drive\Proyectos\Ordenes\bin\Debug\net6.0-windows\Ordenes.deps.json
+D:\Google Drive\Proyectos\Ordenes\bin\Debug\net6.0-windows\Ordenes.runtimeconfig.json
+D:\Google Drive\Proyectos\Ordenes\bin\Debug\net6.0-windows\Ordenes.dll
+D:\Google Drive\Proyectos\Ordenes\bin\Debug\net6.0-windows\Ordenes.pdb
+D:\Google Drive\Proyectos\Ordenes\obj\Debug\net6.0-windows\Ordenes.csproj.AssemblyReference.cache
+D:\Google Drive\Proyectos\Ordenes\obj\Debug\net6.0-windows\Ordenes.Alta_Ordenes.resources
+D:\Google Drive\Proyectos\Ordenes\obj\Debug\net6.0-windows\Ordenes.Properties.Resources.resources
+D:\Google Drive\Proyectos\Ordenes\obj\Debug\net6.0-windows\Ordenes.csproj.GenerateResource.cache
+D:\Google Drive\Proyectos\Ordenes\obj\Debug\net6.0-windows\Ordenes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google Drive\Proyectos\Ordenes\obj\Debug\net6.0-windows\Ordenes.AssemblyInfoInputs.cache
+D:\Google Drive\Proyectos\Ordenes\obj\Debug\net6.0-windows\Ordenes.AssemblyInfo.cs
+D:\Google Drive\Proyectos\Ordenes\obj\Debug\net6.0-windows\Ordenes.csproj.CoreCompileInputs.cache
+D:\Google Drive\Proyectos\Ordenes\obj\Debug\net6.0-windows\Ordenes.csproj.CopyComplete
+D:\Google Drive\Proyectos\Ordenes\obj\Debug\net6.0-windows\Ordenes.dll
+D:\Google Drive\Proyectos\Ordenes\obj\Debug\net6.0-windows\refint\Ordenes.dll
+D:\Google Drive\Proyectos\Ordenes\obj\Debug\net6.0-windows\Ordenes.pdb
+D:\Google Drive\Proyectos\Ordenes\obj\Debug\net6.0-windows\Ordenes.genruntimeconfig.cache
+D:\Google Drive\Proyectos\Ordenes\obj\Debug\net6.0-windows\ref\Ordenes.dll
+D:\Google Drive\Proyectos\Ordenes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Google Drive\Proyectos\Ordenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Google Drive\Proyectos\Ordenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Google Drive\Proyectos\Ordenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Google Drive\Proyectos\Ordenes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Google Drive\Proyectos\Ordenes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alumno\Desktop\Ordenes\Ordenes\bin\Debug\net6.0-windows\Ordenes.exe
+C:\Users\alumno\Desktop\Ordenes\Ordenes\bin\Debug\net6.0-windows\Ordenes.deps.json
+C:\Users\alumno\Desktop\Ordenes\Ordenes\bin\Debug\net6.0-windows\Ordenes.runtimeconfig.json
+C:\Users\alumno\Desktop\Ordenes\Ordenes\bin\Debug\net6.0-windows\Ordenes.dll
+C:\Users\alumno\Desktop\Ordenes\Ordenes\bin\Debug\net6.0-windows\Ordenes.pdb
+C:\Users\alumno\Desktop\Ordenes\Ordenes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\alumno\Desktop\Ordenes\Ordenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alumno\Desktop\Ordenes\Ordenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alumno\Desktop\Ordenes\Ordenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alumno\Desktop\Ordenes\Ordenes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alumno\Desktop\Ordenes\Ordenes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alumno\Desktop\Ordenes\Ordenes\obj\Debug\net6.0-windows\Ordenes.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\Ordenes\Ordenes\obj\Debug\net6.0-windows\Ordenes.Alta_Ordenes.resources
+C:\Users\alumno\Desktop\Ordenes\Ordenes\obj\Debug\net6.0-windows\Ordenes.Properties.Resources.resources
+C:\Users\alumno\Desktop\Ordenes\Ordenes\obj\Debug\net6.0-windows\Ordenes.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Ordenes\Ordenes\obj\Debug\net6.0-windows\Ordenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\Ordenes\Ordenes\obj\Debug\net6.0-windows\Ordenes.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\Ordenes\Ordenes\obj\Debug\net6.0-windows\Ordenes.AssemblyInfo.cs
+C:\Users\alumno\Desktop\Ordenes\Ordenes\obj\Debug\net6.0-windows\Ordenes.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Ordenes\Ordenes\obj\Debug\net6.0-windows\Ordenes.csproj.CopyComplete
+C:\Users\alumno\Desktop\Ordenes\Ordenes\obj\Debug\net6.0-windows\Ordenes.dll
+C:\Users\alumno\Desktop\Ordenes\Ordenes\obj\Debug\net6.0-windows\refint\Ordenes.dll
+C:\Users\alumno\Desktop\Ordenes\Ordenes\obj\Debug\net6.0-windows\Ordenes.pdb
+C:\Users\alumno\Desktop\Ordenes\Ordenes\obj\Debug\net6.0-windows\Ordenes.genruntimeconfig.cache
+C:\Users\alumno\Desktop\Ordenes\Ordenes\obj\Debug\net6.0-windows\ref\Ordenes.dll
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\bin\Debug\net6.0-windows\Ordenes.exe
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\bin\Debug\net6.0-windows\Ordenes.deps.json
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\bin\Debug\net6.0-windows\Ordenes.runtimeconfig.json
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\bin\Debug\net6.0-windows\Ordenes.dll
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\bin\Debug\net6.0-windows\Ordenes.pdb
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\obj\Debug\net6.0-windows\Ordenes.csproj.AssemblyReference.cache
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\obj\Debug\net6.0-windows\Ordenes.Alta_Ordenes.resources
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\obj\Debug\net6.0-windows\Ordenes.Properties.Resources.resources
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\obj\Debug\net6.0-windows\Ordenes.csproj.GenerateResource.cache
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\obj\Debug\net6.0-windows\Ordenes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\obj\Debug\net6.0-windows\Ordenes.AssemblyInfoInputs.cache
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\obj\Debug\net6.0-windows\Ordenes.AssemblyInfo.cs
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\obj\Debug\net6.0-windows\Ordenes.csproj.CoreCompileInputs.cache
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\obj\Debug\net6.0-windows\Ordenes.csproj.CopyComplete
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\obj\Debug\net6.0-windows\Ordenes.dll
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\obj\Debug\net6.0-windows\refint\Ordenes.dll
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\obj\Debug\net6.0-windows\Ordenes.pdb
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\obj\Debug\net6.0-windows\Ordenes.genruntimeconfig.cache
+E:\Mi unidad\TUP\Programacion II\Proyectos\Ordenes1\Ordenes\obj\Debug\net6.0-windows\ref\Ordenes.dll
